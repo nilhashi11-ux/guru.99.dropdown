@@ -24,6 +24,7 @@ public class Dropdown {
 		  Thread.sleep(3000);
 		  obj.selectByValue("CHINA");
 		  Thread.sleep(3000);
+
 		  obj.selectByVisibleText("UNITED STATES");
 		  
 	}
